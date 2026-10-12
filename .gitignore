@@ -5,7 +5,8 @@
 .logfire/
 enterprise_env/
 .env
-
+artifacts/
+DATA/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

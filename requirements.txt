@@ -19,12 +19,16 @@ langchain-groq
 langchain-community
 langchain-openai
 pydantic>=2.0.0
+pydantic-settings
+
 
 unstructured
 python-pptx
 python-docx
 pypdf
 beautifulsoup4
+# docling
+cryptography
 
 langsmith
 logfire
@@ -32,3 +36,6 @@ logfire[fastapi]
 logfire[requests]
 logfire[system-metrics]
 loguru
+
+
+sentence-transformers
